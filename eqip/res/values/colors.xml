@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="b">#000</color> <!-- Black -->
+    <color name="w">#FFFFFF</color>  <!-- White -->
+    <color name="p">#FFE802</color>  <!-- Primary -->
+    <color name="px">#606060</color>  <!-- PrimaryX -->
+    <color name="t1">#464547</color>  <!-- Text1 -->
+    <color name="b1">#464547</color>  <!-- Background1 -->
+    <color name="background">#FAFAFA</color>  <!-- Background -->
+    <color name="t2">#464547</color> <!-- Text2 -->
+    <color name="n0">#F2F2ED</color>  <!-- N0 -->
+    <color name="n1">#D9D8D4</color>  <!-- N1 -->
+    <color name="n2">#BFBEB6</color> <!-- N2 -->
+    <color name="n3">#949385</color> <!-- N3 -->
+    <color name="n4">#696753</color> <!-- N4 -->
+    <color name="n5">#54523A</color> <!-- N5 -->
+    <color name="n6">#3D3B22</color>  <!-- N6 -->
+    <color name="v1">#FFFBCC</color> <!-- V1 -->
+    <color name="v2">#FFF799</color> <!-- V2 -->
+    <color name="v3">#FFF266</color> <!-- V3 -->
+    <color name="v4">#FFEE33</color>  <!-- V4 -->
+    <color name="v5">#CCBB01</color> <!-- V5 -->
+    <color name="v6">#998C00</color>  <!-- V6 -->
+    <color name="v7">#665E00</color>   <!-- V7 -->
+    <color name="v8">#332F00</color>  <!-- V8 -->
+    <color name="v9">#191700</color>  <!-- V9 -->
+    <color name="e">#F22B29</color> <!-- Error -->
+    <color name="et">#FFF2EB</color>  <!-- Error Tint-->
+    <color name="s">#04A777</color>  <!-- Success -->
+    <color name="st">#7cc372</color> <!-- FeedBack Success Tint -->
+    <color name="a">#F49D37</color>  <!-- Attention -->
+    <color name="at">#FFF9DE</color> <!-- FeedBackAttention Tint  -->
+</resources>
