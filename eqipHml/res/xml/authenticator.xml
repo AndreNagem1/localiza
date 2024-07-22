@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<account-authenticator xmlns:android="http://schemas.android.com/apk/res/android"
-                       android:accountType="com.eqip.bs2.empresas.hml"
-                       android:icon="@mipmap/launcher"
-                       android:smallIcon="@mipmap/launcher"
-                       android:label="@string/app_name"/>
